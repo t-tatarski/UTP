@@ -1,0 +1,9 @@
+PANSTWO STOLICA LUDNOSC
+polska	warszaw	38000000
+niemcy	berlin	75000000
+japonia	tokyo	126000000
+rosja	moskwa	140000000
+szwecja	malmo	8000000
+slowacja	bratyslawa	5000000
+wegry	budapeszt	9000000
+
